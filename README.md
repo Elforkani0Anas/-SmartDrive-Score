@@ -7,7 +7,7 @@ This repository hosts the complete code and documentation for an automated drivi
 
 ## Introduction
 
-Obtaining a driver’s license traditionally involves a human examiner assessing a candidate’s ability to follow traffic rules—an approach that can be subjective and constrained by examiner availability. This project implements a robotic platform that objectively evaluates “driving” performance by combining two ESP32 boards, a CAN bus network, an MQTT link, and a YOLOv8-based Python script to score the robot’s compliance with traffic signs and lane boundaries in real time. 
+Obtaining a driver’s license traditionally involves a human examiner assessing a candidate’s ability to follow traffic rules an approach that can be subjective and constrained by examiner availability. This project implements a robotic platform that objectively evaluates “driving” performance by combining two ESP32 boards, a CAN bus network, an MQTT link, and a YOLOv8-based Python script to score the robot’s compliance with traffic signs and lane boundaries in real time. 
 
 ---
 
