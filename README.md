@@ -94,3 +94,8 @@ The system consists of three tightly integrated components:
   - Stores the latest integer payload for each topic in a dictionary for scoring logic.
 
 ---
+Licensing
+This project is released under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+We gratefully acknowledge the contributions of the entire project team (El Forkani Anas,El Hazdour Ahmed, El Bouaissaoui Bouchra, El Baz Ahlam, El Hatimy Maryam, El Goumri Hiba, El Kharraz Naoual) .
